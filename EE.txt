@@ -1,1 +1,6 @@
-5aSu6KeG6aKR6YGTLCNnZW5yZSMKQ0NUVjEsaHR0cDovL2NjdHZjbmNoNWNhLnYud3NjZG5zLmNvbS9saXZlL2NjdHYxXzIvMTA3OTMubTN1OApDQ1RWMixodHRwOi8vY2N0dmNuY2g1Y2Eudi53c2NkbnMuY29tL2xpdmUvY2N0djJfMi8xMDc5My5tM3U4CuWcsOaWuemikemBkywjZ2VucmUjCkNDVFYxLGh0dHA6Ly9jY3R2Y25jaDVjYS52LndzY2Rucy5jb20vbGl2ZS9jY3R2MV8yLzEwNzkzLm0zdTgKQ0NUVjIsaHR0cDovL2NjdHZjbmNoNWNhLnYud3NjZG5zLmNvbS9saXZlL2NjdHYyXzIvMTA3OTMubTN1OA==
+央视频道,#genre#
+CCTV1,http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+CCTV2,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
+地方频道,#genre#
+CCTV1,http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
+CCTV2,http://cctvcnch5ca.v.wscdns.com/live/cctv2_2/10793.m3u8
